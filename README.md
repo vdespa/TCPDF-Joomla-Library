@@ -10,7 +10,7 @@ The purpose of this project is to provide a free & relaiable way of packaging, i
 Download
 --------
 
-[Direct link to the current release]  (https://github.com/downloads/vdespa/TCPDF-Joomla-Library/) - soon
+[Direct link to the current release] (https://github.com/vdespa/TCPDF-Joomla-Library/archive/5.9.205.zip)
 
 Version
 -------
