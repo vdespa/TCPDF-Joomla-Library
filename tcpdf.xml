@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension type="library" method="upgrade" version="2.5.0">
+	<name>TCPDF-Joomla-Library</name>
+	<!-- This element is the "system name" for the library -->
+	<libraryname>TCPDF</libraryname>
+	<author>Valentin Despa</author>
+	<authorEmail>info@vdespa.de</authorEmail>
+	<authorUrl>www.vdespa.de</authorUrl>
+	<creationDate>18.02.2013</creationDate>
+	<copyright>
+		Copyright (c) 2002-2013:
+		Nicola Asuni
+	</copyright>
+	<license>
+		LGPL v3 (http://www.gnu.org/licenses/lgpl-3.0.txt)
+	</license>
+	<version>5.9.205</version>
+	<description>PHP class for generating PDF documents</description>
+	<!-- Anything included in the <files> element will be copied into the library's 
+		folder. -->
+	<files>
+		<folder>library</folder>
+	</files>
+	<updateservers>
+		<server type="extension" priority="2" name="TCPDF-Joomla-Library Update Server">http://raw.github.com/vdespa/TCPDF-Joomla-Library/master/update/extension.xml</server>
+	</updateservers>
+</extension>

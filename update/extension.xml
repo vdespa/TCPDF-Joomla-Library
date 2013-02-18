@@ -1,0 +1,21 @@
+<updates>
+	<update>
+		<name>TCPDF-Joomla-Library</name>
+		<description>TCPDF Library for Joomla!</description>
+		<element>tcpdf</element>
+		<type>library</type>
+		<folder></folder>
+		<client>0</client>
+		<version>5.9.205</version>
+		<infourl title="TCPDF for Joomla!">https://github.com/vdespa/TCPDF-Joomla-Library</infourl>
+		<downloads>
+			<downloadurl type="full" format="zip">https://github.com/downloads/vdespa/TCPDF-Joomla-Library/NOTYET.zip</downloadurl>
+		</downloads>
+		<tags>
+			<tag>stable</tag>
+		</tags>
+		<maintainer>Valentin Despa</maintainer>
+		<maintainerurl>http://www.vdespa.de</maintainerurl>
+		<targetplatform name="joomla" version="2.5" />
+	</update>
+</updates>
