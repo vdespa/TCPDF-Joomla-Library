@@ -32,6 +32,10 @@ or
 
 `$pdf = new TCPDF(PDF_PAGE_ORIENTATION, PDF_UNIT, PDF_PAGE_FORMAT, true, 'UTF-8', false);`
 
+`// Load the Language module (if you need it)`
+
+`require_once JPATH_LIBRARIES . '/tcpdf/library/config/lang/eng.php';`
+
 `// now you can have fun...  `
 
 Documentation
