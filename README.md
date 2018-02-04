@@ -1,4 +1,4 @@
-TCPDF-Joomla-Library
+TCPDF-Joomla-Library ![](https://img.shields.io/badge/maintained%3F-no!-red.svg?style=flat)
 ====================
 
 TCPDF Library for Joomla! ® 2.5. &amp; 3.0.
